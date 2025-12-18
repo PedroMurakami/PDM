@@ -1,7 +1,7 @@
-# Calculadora de Saude Pro
+#Calculadora de IMC para android
 
 ## Sobre o Projeto
-O objetivo da aplicação é oferecer uma ferramenta robusta para avaliação antropométrica e de composição corporal, implementando fórmulas científicas reconhecidas para fornecer dados mais precisos do que calculadoras genéricas de IMC.
+O objetivo do projeto foi criar uma calculadora de IMC utilizando kotlin, e fazendo um banco de dados para armazenar os cálculos feitos
 
 ## Funcionalidades Principais
 
